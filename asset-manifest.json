@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/slepwebsite/static/css/main.a4a74728.css",
-    "main.js": "/slepwebsite/static/js/main.73d923c2.js",
+    "main.js": "/slepwebsite/static/js/main.8d2ff0ff.js",
     "static/js/453.02906580.chunk.js": "/slepwebsite/static/js/453.02906580.chunk.js",
     "static/media/img_0.png": "/slepwebsite/static/media/img_0.05a63a724f2ff566a530.png",
     "static/media/img_3.png": "/slepwebsite/static/media/img_3.b32c0a782c8d3cd98691.png",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/slepwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/slepwebsite/index.html",
     "main.a4a74728.css.map": "/slepwebsite/static/css/main.a4a74728.css.map",
-    "main.73d923c2.js.map": "/slepwebsite/static/js/main.73d923c2.js.map",
+    "main.8d2ff0ff.js.map": "/slepwebsite/static/js/main.8d2ff0ff.js.map",
     "453.02906580.chunk.js.map": "/slepwebsite/static/js/453.02906580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4a74728.css",
-    "static/js/main.73d923c2.js"
+    "static/js/main.8d2ff0ff.js"
   ]
 }
